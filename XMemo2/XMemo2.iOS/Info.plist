@@ -5,7 +5,6 @@
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
-		<integer>2</integer>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
@@ -50,5 +49,7 @@
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
 	<string>XMemo2</string>
+	<key>UIMainStoryboardFile</key>
+	<string>ViewController</string>
 </dict>
 </plist>
